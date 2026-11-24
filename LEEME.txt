@@ -1,0 +1,10 @@
+PORTAFOLIO DE ALEJANDRO SARAVIA
+
+1. Descomprime la carpeta del proyecto.
+2. Abre Visual Studio Code.
+3. Selecciona Archivo > Abrir carpeta y elige "alejandro_portafolio".
+4. Abre index.html para ver o editar el código.
+5. Para visualizar la página, abre index.html en Chrome o usa la extensión Live Server.
+
+IMPORTANTE: conserva la carpeta img y la carpeta css junto a index.html.
+Bootstrap se carga desde internet mediante CDN.
